@@ -1,0 +1,15 @@
+.addM{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width:"20vw";
+    border:"2px black solid";
+    border-radius:"2vw";
+    padding:"2vw";
+    margin:"2vw";
+    direction: rtl;
+  }
+  .TF{
+      width: 20vw;
+      display: flex;
+  }

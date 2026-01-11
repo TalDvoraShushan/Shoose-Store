@@ -1,0 +1,26 @@
+.littlecart{
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    /* border: 1px dashed rgba(61, 71, 81, 0.3); */
+    border-radius: 12px;
+    padding: 14px 14px ;
+  
+}
+.imglittele{
+    width: 100px;
+    height: 100px;
+}
+.divlitellecart{
+    text-align: center;
+    display: block;
+  position: relative;
+ 
+ 
+}
+.divsum{
+    position: sticky;
+    /* position: absolute; */
+    bottom: 0;
+    background-color: white;
+}

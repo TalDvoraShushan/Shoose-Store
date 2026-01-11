@@ -1,0 +1,21 @@
+.cart{
+    width: 35vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row-reverse;
+    border: solid 2px black;
+    /* border: 1px dashed rgba(61, 71, 81, 0.3); */
+    /* border-radius: 12px; */
+    padding: 14px 14px ;
+    
+    
+}
+.imglittele{
+    width: 100px;
+    height: 100px;
+}
+#allProd{
+    /* display: flex; */
+    margin-left: 27%;
+}

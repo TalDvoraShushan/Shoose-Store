@@ -1,0 +1,28 @@
+.stam,.active{
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border: 0;
+    /* box-shadow: 2 2 2 2 grey; */
+}
+.active{
+    background-color: rgba(223, 223, 238, 0.685);
+}
+/* .oneProduct{
+    display: flex;
+    flex-direction: column;
+} */
+
+.all-products{
+    /* display: grid;
+    grid-template-columns: auto auto; */
+    display: flex;
+    flex-wrap: wrap;
+ justify-content: center;
+    
+}
+.pages{
+    text-align: center;
+    margin-left: 25vw;
+    padding: 5%;
+}

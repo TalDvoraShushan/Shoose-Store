@@ -1,0 +1,20 @@
+.outer{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top:0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(7, 5, 5, 0.808);
+}
+.editinput{
+    width: 30vw;
+    height: 3vh;
+    border-radius: 10px;
+    
+}
+.editlabel{
+    color: white;
+}

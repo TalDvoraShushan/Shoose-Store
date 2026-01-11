@@ -1,0 +1,15 @@
+.navbar{
+    display:flex;
+    text-align: center;
+    /* margin: 0 auto; */
+
+    width: 30vw;
+    position: absolute;
+    top: 0;
+    background-color: var(--AppBar-background);
+    
+}
+/* #exit{
+    direction: rtl;
+    margin-left: 80%;
+} */

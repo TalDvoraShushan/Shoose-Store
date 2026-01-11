@@ -1,0 +1,12 @@
+.oneProduct{
+ 
+    border: solid 2px black;
+    border-radius: 3%;
+    width: 15vw;
+    height: 40vh;
+}
+img{
+    height: 20vh;
+    width: 8vw;
+
+}

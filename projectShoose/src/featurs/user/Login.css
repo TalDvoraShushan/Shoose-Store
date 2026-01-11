@@ -1,0 +1,11 @@
+.logininput{
+    width: 30vw;
+    height: 3vh;
+    border-radius: 10px;
+    
+  }
+  .submit{
+        background-color: #1976d2;
+        border-radius: 10px;
+        height: 4vh;
+  }
